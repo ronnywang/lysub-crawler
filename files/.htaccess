@@ -1,0 +1,4 @@
+Options +Indexes
+IndexOptions Charset=UTF-8
+IndexOptions NameWidth=*
+
